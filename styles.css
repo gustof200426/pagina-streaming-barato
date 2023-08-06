@@ -1,0 +1,100 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #201d1d;
+}
+
+header {
+    background-color: #0a0a0a;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+.servicios {
+    margin-bottom: 30px;
+}
+
+.servicios h2 {
+    border-bottom: 2px solid #d81d1d;
+    padding-bottom: 10px;
+}
+
+.servicios li {
+    margin-bottom: 15px;
+}
+
+footer {
+    background-color: #000000;
+    color: #d1cdcd;
+    text-align: center;
+    padding: 10px;
+}
+.servicios li {
+    margin-bottom: 40px; /* Aumentamos el margen para separar los servicios */
+}
+
+.servicios h3 {
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.servicios p {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #c9c5c5;
+}
+
+main {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 2% 5%;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+body {
+    background-image: url("img/que-podemos1-1-1024x306.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+/* Estilos para el encabezado */
+header {
+    text-align: center;
+    background-color: #070606;
+    padding: 2%; /* Padding en porcentaje para adaptarse a diferentes tamaños */
+}
+
+
+/* Estilos para el pie de página */
+footer {
+    text-align: center;
+    background-color: #020202;
+    padding: 2%; /* Padding en porcentaje para adaptarse a diferentes tamaños */
+}
